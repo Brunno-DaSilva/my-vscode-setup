@@ -160,17 +160,19 @@ I will review your code, make sure that there is no conflicts, and eventually me
 
 [Difference between Fork and Cloning ](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
 
+[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
 </details>
 
-| Shortcuts                           |        Action         |
-| ----------------------------------- | :-------------------: |
-| Ctrl + P                            |   Search for a file   |
+| Shortcuts                           |        Action        |
+| ----------------------------------- | :------------------: |
+| Ctrl + P                            |  Search for a file   |
 | Ctrl + ` | Open terminal in VS Code |
-| Alt + Down                          |    Move Line Down     |
-| Alt + Up                            |     Move Line Up      |
-| Ctrl + D                            |    Find next Match    |
-| Ctrl + Space                        |     Open Suggest      |
-| Shift Alt + Down                    |    Copy Line Down     |
-| Shift Alt + Up                      |     Copy Line Up      |
-| Ctrl+ B                             | Toggle the side menu  |
-| _Next shortcut above ... _          | _simple description _ |
+| Alt + Down                          |    Move Line Down    |
+| Alt + Up                            |     Move Line Up     |
+| Ctrl + D                            |   Find next Match    |
+| Ctrl + Space                        |     Open Suggest     |
+| Shift Alt + Down                    |    Copy Line Down    |
+| Shift Alt + Up                      |     Copy Line Up     |
+| Ctrl+ B                             | Toggle the side menu |
+| _Next shortcut above_               | _simple description_ |
