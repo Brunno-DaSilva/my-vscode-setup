@@ -1,4 +1,4 @@
-# VsCode-Setup
+# VS Code Setup
 
 ## Lesson Objectives
 
