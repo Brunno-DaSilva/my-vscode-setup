@@ -37,13 +37,15 @@ Here is a collection of vs code theme you can incorporate to your VS CODE from t
 
 [ win95 ](https://marketplace.visualstudio.com/items?itemName=asilva.win95)
 
+[ Star Wars Theme ](https://marketplace.visualstudio.com/items?itemName=NiravAgarwal.star-wars-theme)
+
 [ Slack Theme ](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
 [ HotDogStand ](https://marketplace.visualstudio.com/items?itemName=somekittens.hot-dog-stand)
 
 [ HotDogStand ](https://marketplace.visualstudio.com/items?itemName=somekittens.hot-dog-stand)
 
-## 📁 Left Icons:
+## 📁 Icons:
 
 File Icons is a quick a way to visualize directory, organize your files, and enhance your Visual Studio look
 
@@ -62,6 +64,12 @@ Here are some suggestions:
 [ Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
 
 [ Minimalist Product Icon Theme](https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme)
+
+#### 🤓 Nerd Section & Fun icons:
+
+[ Cage Icons ](https://marketplace.visualstudio.com/items?itemName=stepanog.cage-icons)
+
+[ MK Icons ](https://marketplace.visualstudio.com/items?itemName=JohnnyReina.MK)
 
 ## ✏️ Font:
 
@@ -100,18 +108,29 @@ If you want to use my settings
 
 ## ✏️ Extension:
 
-#### Peacock
+1. [ Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+2. [ Bracket Pair Colorizer ](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+3. [ Code Spell Checker ](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+4. [ JavaScript (ES6) code snippets ](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+5. [ Auto Rename Tag ](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+6. [ indent-rainbow ](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+7. [ Live Server ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+8. [ Live Sass Compiler ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+9. [ Sass ](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+10. [ Path Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+11. [ Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+12. [Markdown All in One ](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-[ Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-
-## Advance Settings:
+## 👨🏽‍💻 Advance Settings: 👩🏽‍💻
 
 You don't have to do this part, if you don't want to. This is just extra stuff given by VS code that I hardly use.
 
 1. Sidebar on left
 
-<span style="color:red ">**Danger Zone**<span>
+### Danger Zone
 
-2. <span style="color:red">Disable:<span>
+1. Disable:
    1. Open Editor
    2. Minimap
+   3. Breadcrumbs
+   4.
