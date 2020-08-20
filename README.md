@@ -131,17 +131,18 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
 
 1. Sidebar on left
 
-### Danger Zone
+### ⚠️Danger Zone
 
-1. Disable:
-   1. Open Editor
-   2. Minimap
-   3. Breadcrumbs
-   4.
+#### Optional:
+
+1.  Open Editor
+2.  Minimap
+3.  Breadcrumbs
+4.  Move side bar to the right
 
 ## 😎 ⌨️ Visual Studio Shortcuts
 
-Now, you can practice some fork, clone, and pull request. Follow the steps showed in class and add a short to the table below.
+Shortcuts helps you to stay focus and productive. Now, you can practice some fork, clone, and pull request. Follow the steps showed in class and add a short to the table below.
 
 1. Click on the the link below
 2. Pick one keyboard short cut
