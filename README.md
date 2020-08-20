@@ -139,16 +139,38 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
    3. Breadcrumbs
    4.
 
-## Visual Studio Shortcuts
+## 😎 ⌨️ Visual Studio Shortcuts
 
-| Shortcuts                           |        Action        |
-| ----------------------------------- | :------------------: |
-| Ctrl + P                            |  Search for a file   |
+Now, you can practice some fork, clone, and pull request. Follow the steps showed in class and add a short to the table below.
+
+1. Click on the the link below
+2. Pick one keyboard short cut
+3. Add to your local version of this repo
+4. Git add, commit, and push
+5. Head to github and make a pull request
+
+I will review your code, make sure that there is no conflicts, and eventually merge your request to this repository.
+
+[VS Code Shortcut ](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+<details>
+<summary>Additional Links:</summary>
+
+[How to make a pull request ](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+[Difference between Fork and Cloning ](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189)
+
+</details>
+
+| Shortcuts                           |        Action         |
+| ----------------------------------- | :-------------------: |
+| Ctrl + P                            |   Search for a file   |
 | Ctrl + ` | Open terminal in VS Code |
-| Alt + Down                          |    Move Line Down    |
-| Alt + Up                            |     Move Line Up     |
-| Ctrl + D                            |   Find next Match    |
-| Ctrl + Space                        |     Open Suggest     |
-| Shift Alt + Down                    |    Copy Line Down    |
-| Shift Alt + Up                      |     Copy Line Up     |
-| Ctrl+ B                             | Toggle the side menu |
+| Alt + Down                          |    Move Line Down     |
+| Alt + Up                            |     Move Line Up      |
+| Ctrl + D                            |    Find next Match    |
+| Ctrl + Space                        |     Open Suggest      |
+| Shift Alt + Down                    |    Copy Line Down     |
+| Shift Alt + Up                      |     Copy Line Up      |
+| Ctrl+ B                             | Toggle the side menu  |
+| _Next shortcut above ... _          | _simple description _ |
