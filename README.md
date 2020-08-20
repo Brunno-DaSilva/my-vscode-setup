@@ -137,13 +137,29 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
 2.  Minimap
 3.  Breadcrumbs
 4.  Move side bar to the right (it is recommended)
+5.  Change default setting to json
 
 ## 😎 ⌨️ Visual Studio Shortcuts
 
-Shortcuts helps you to stay focus and productive. Now, you can practice some fork, clone, and pull request. Follow the steps showed in class and add a short to the table below.
+Shortcuts helps you to stay focus and productive. Here are some of shortcuts.
+
+| Shortcuts                           |        Action        |
+| ----------------------------------- | :------------------: |
+| Ctrl + P                            |  Search for a file   |
+| Ctrl + ` | Open terminal in VS Code |
+| Alt + Down                          |    Move Line Down    |
+| Alt + Up                            |     Move Line Up     |
+| Ctrl + D                            |   Find next Match    |
+| Ctrl + Space                        |     Open Suggest     |
+| Shift Alt + Down                    |    Copy Line Down    |
+| Shift Alt + Up                      |     Copy Line Up     |
+| Ctrl+ B                             | Toggle the side menu |
+| _Next shortcut above_               | _simple description_ |
+
+Now, you can practice some fork, clone, and pull request. Follow the steps showed in class and add a short to the table above.
 
 1. Click on the the link below
-2. Pick one keyboard short cut
+2. Pick one keyboard shortcut
 3. Add to your local version of this repo
 4. Git add, commit, and push
 5. Head to github and make a pull request
@@ -163,15 +179,8 @@ I will review your code, make sure that there is no conflicts, and eventually me
 
 </details>
 
-| Shortcuts                           |        Action        |
-| ----------------------------------- | :------------------: |
-| Ctrl + P                            |  Search for a file   |
-| Ctrl + ` | Open terminal in VS Code |
-| Alt + Down                          |    Move Line Down    |
-| Alt + Up                            |     Move Line Up     |
-| Ctrl + D                            |   Find next Match    |
-| Ctrl + Space                        |     Open Suggest     |
-| Shift Alt + Down                    |    Copy Line Down    |
-| Shift Alt + Up                      |     Copy Line Up     |
-| Ctrl+ B                             | Toggle the side menu |
-| _Next shortcut above_               | _simple description_ |
+### What Next?
+
+#### See if there is any other areas in the markdown that could be improved, fix it and submit your pull request!
+
+This markdown is made with ❤️ by Bruno DaSilva - You can find more about me at https://www.bruno-dasilva.com/
