@@ -110,7 +110,7 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
 
 1. Sidebar on left
 
-### <span style="color:red ">**Danger Zone**<span>
+<span style="color:red ">**Danger Zone**<span>
 
 2. <span style="color:red">Disable:<span>
    1. Open Editor
