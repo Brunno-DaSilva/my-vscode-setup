@@ -33,7 +33,7 @@ Here is a collection of vs code theme you can incorporate to your VS CODE from t
 
 [ 50 VS Code Themes for 2020](https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc)
 
-🤓 Nerd Section- Fun Themes:
+#### 🤓 Nerd Section & Fun Themes:
 
 [ win95 ](https://marketplace.visualstudio.com/items?itemName=asilva.win95)
 
@@ -97,3 +97,19 @@ If you want to use my settings
 }
 
 ```
+
+## ✏️ Extension:
+
+#### Peacock
+
+[ Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
+## Advance Settings:
+
+You don't have to do this part, if you don't want to. This is just extra stuff given by VS code that I hardly use.
+
+1. Sidebar on left
+
+2. <span style="color:tomato">Disable:<span>
+   1. Open Editor
+   2. Minimap
