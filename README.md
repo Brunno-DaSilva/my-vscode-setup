@@ -129,8 +129,6 @@ If you want to use my settings
 
 You don't have to do this part, if you don't want to. This is just extra stuff given by VS code that I hardly use.
 
-1. Sidebar on left
-
 ### ⚠️Danger Zone
 
 #### Optional:
@@ -138,7 +136,7 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
 1.  Open Editor
 2.  Minimap
 3.  Breadcrumbs
-4.  Move side bar to the right
+4.  Move side bar to the right (it is recommended)
 
 ## 😎 ⌨️ Visual Studio Shortcuts
 
