@@ -1,4 +1,4 @@
-# my-vscode-setup
+# VsCode-Setup
 
 ## Lesson Objectives
 
@@ -20,7 +20,7 @@ VS Code has a market place which makes it easy for you to add features to your e
 
 My color theme is an edited version of the VS Code default dark theme `Tomorrow Night Blue`
 
-![Tomorrow Night Blue](theme.png)
+![Tomorrow Night Blue](./images/theme.png)
 
 Let's change the theme to a VS Code default theme.
 
