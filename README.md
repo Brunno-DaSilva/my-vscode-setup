@@ -110,6 +110,6 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
 
 1. Sidebar on left
 
-2. <span style="color:tomato">Disable:<span>
+2. <span style="color:red">Disable:<span>
    1. Open Editor
    2. Minimap
