@@ -118,8 +118,12 @@ If you want to use my settings
 8. [ Live Sass Compiler ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 9. [ Sass ](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 10. [ Path Intellisense ](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-11. [ Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-12. [Markdown All in One ](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+11. [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+12. [ Color Highlight ](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+13. [ Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+14. [Markdown All in One ](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+15. [ DotEnv ](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+16. [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
 ## 👨🏽‍💻 Advance Settings: 👩🏽‍💻
 
@@ -134,3 +138,17 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
    2. Minimap
    3. Breadcrumbs
    4.
+
+## Visual Studio Shortcuts
+
+| Shortcuts                           |        Action        |
+| ----------------------------------- | :------------------: |
+| Ctrl + P                            |  Search for a file   |
+| Ctrl + ` | Open terminal in VS Code |
+| Alt + Down                          |    Move Line Down    |
+| Alt + Up                            |     Move Line Up     |
+| Ctrl + D                            |   Find next Match    |
+| Ctrl + Space                        |     Open Suggest     |
+| Shift Alt + Down                    |    Copy Line Down    |
+| Shift Alt + Up                      |     Copy Line Up     |
+| Ctrl+ B                             | Toggle the side menu |
