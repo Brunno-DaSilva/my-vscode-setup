@@ -90,6 +90,7 @@ The font I use is called `Fira Code, Cascadia Code`, and it supports ligatures, 
 If you want to use my settings
 
 ```
+{
  "editor.fontSize": 16,
   "editor.lineHeight": 22,
   "editor.letterSpacing": 0.5,
