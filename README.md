@@ -140,7 +140,7 @@ You don't have to do this part, if you don't want to. This is just extra stuff g
 4.  Move side bar to the right (it is recommended)
 5.  Change default setting to json
 
-## 😎 ⌨️ Visual Studio Shortcuts
+## 😎 Visual Studio Shortcuts ⌨️
 
 Shortcuts helps you to stay focus and productive. Here are some of shortcuts.
 
