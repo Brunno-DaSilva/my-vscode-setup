@@ -126,11 +126,11 @@ If you want to use my settings
 15. [ DotEnv ](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 16. [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
-## 👨🏽‍💻 Advance Settings: 👩🏽‍💻
+## 🙏 Advance Settings: 🙏
 
 You don't have to do this part, if you don't want to. This is just extra stuff given by VS code that I hardly use.
 
-### ⚠️Danger Zone
+### ⚠️ Danger Zone
 
 #### Optional:
 
