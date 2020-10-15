@@ -55,7 +55,7 @@ Here are some suggestions:
 
 [ VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 
-[ Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+[ Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 [ VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
