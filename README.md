@@ -130,7 +130,7 @@ If you want to use my settings
 
 You don't have to do this part, if you don't want to. This is just extra stuff given by VS code that I hardly use.
 
-### ⚠️ Danger Zone
+### ⚠️ Danger Zone 👾
 
 #### Optional:
 
