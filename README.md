@@ -20,7 +20,7 @@ VS Code has a market place which makes it easy for you to add features to your e
 
 I created my own dark color theme called Golden-Blue color Theme. It an enhanced version of the `Tomorrow Night Blue`. 
 
-![Golden-Blue Color Theme](https://marketplace.visualstudio.com/items?itemName=BrunoDaSilvaThemes.golden-blue&ssr=false#review-details)
+[Golden-Blue Color Theme](https://marketplace.visualstudio.com/items?itemName=BrunoDaSilvaThemes.golden-blue&ssr=false#review-details)
 
 Let's change the theme to a VS Code default theme.
 
