@@ -43,7 +43,7 @@ Here is a collection of vs code theme you can incorporate to your VS CODE from t
 
 [ HotDogStand ](https://marketplace.visualstudio.com/items?itemName=somekittens.hot-dog-stand)
 
-[ HotDogStand ](https://marketplace.visualstudio.com/items?itemName=somekittens.hot-dog-stand)
+[ BM-The Dark knight ](https://marketplace.visualstudio.com/items?itemName=MajhiRockzZ.the-dark-knight)
 
 ## 📁 Icons:
 
