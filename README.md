@@ -104,7 +104,6 @@ If you want to use my settings
   "workbench.colorTheme": "Tomorrow Night Blue",
   "liveServer.settings.donotShowInfoMsg": true
 }
-
 ```
 
 ## ✏️ Extension:
